@@ -39,7 +39,7 @@
 
 
     </div>
-    <div class="row">
+    <div class="row-footer">
         @include('includes.footer')
     </div>
 
