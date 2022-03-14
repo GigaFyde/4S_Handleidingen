@@ -17,7 +17,7 @@
 
     <?php
     $size = count($brands);
-    $columns = 3;
+    $columns = 6;
     $chunk_size = ceil($size / $columns);
     ?>
 
@@ -26,7 +26,7 @@
         <div class="row">
 
             @foreach($brands->chunk($chunk_size) as $chunk)
-                <div class="col-md-4">
+                <div class="col-md-auto">
 
                     <ul>
                         @foreach($chunk as $brand)
