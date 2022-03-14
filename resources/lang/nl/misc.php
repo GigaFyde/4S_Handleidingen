@@ -12,11 +12,13 @@ return [
     | you want to customize your views to better match your application.
     |
     */
-
-    'home' => "Hoofdpagina",
+'home' => "Hoofdpagina",
 'home_alt' => "Download je handleiding: Gratis gebruikersgidsen!",
 'homepage_title' => "Download je handleiding",
 'copyright' => "Copyright 2022 Avarix",
+'about_us' => "Over ons: Wij maken handleidingen beschikbaar voor iedereen",
+'contact' => "Contacteer: 06-12345678",
+'social_links' => "Socialmedia: Twitter: @guides_nl",
 'download_manual' => "Klik hier om je handleiding te downloaden",
 'download_manual_alt' => "Klik hier om je handleiding te downloaden",
 'view_manual' => "Bekijk direct je handleiding",

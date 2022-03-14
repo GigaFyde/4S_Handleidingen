@@ -13,10 +13,13 @@ return [
     |
     */
 
-    'home' => "Home",
+'home' => "Home",
 'home_alt' => "Download your manual homepage: Free user guides!",
 'homepage_title' => "Download your manual",
 'copyright' => "Copyright 2022 Avarix",
+'about_us' => "About us: We make guides available for all",
+'contact' => "Contact: 06-12345678",
+'social_links' => "Social: Twitter @guides",
 'download_manual' => "Click here to download the manual",
 'download_manual_alt' => "Download your manual here",
 'view_manual' => "Directly view your manual",
